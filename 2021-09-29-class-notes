@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang=en>
+<head>
+<title> Software Development Class Notes </title>
+</head>
+<body>
+<h2> Date: 2021-09-29 </h2>
+<section>
+<h4> Agenda: </h4>
+  <ol> 
+    <li> Check-in/Topics</li>
+    <li> Running a class session</li>
+    <li> Making more than one PR</li>
+  </ol>
+</section>
+<section>
+<h4> Check-in/Topics: </h4>
+  <ol> 
+    <li> Edmonds, Tran - Fixing broken pages, Consistent HTML structure </li> 
+    <li> Gant, Jones - Class notes in consistent format </li> 
+    <li> Beehler, Thomas - [nothing picked yet] </li> 
+    <li> Kime - Typo/styling hunt </li> 
+    <li> Shaffer, Chigwira - CSS for home page AND individual blog pages </li> 
+    <li> Gonnerman, Hillaker - [nothing picked yet] </li> 
+    <li> Callaghan, Nguyen  - Include a blurb description for each assignment </li> 
+</section>
+<section>
+<h4> General Notes for Assignment: </h4>
+  <ol> 
+    <li> Create PR naming template </li>
+    <li> Create file naming template (including number of files expected) </li>
+    <li> Create Monday/Wednesday/Friday notes </li>
+    <li> Plan to join Zoom call 15 minutes before class on the days you're leading to fix any audio issues</li>
+  </ol>
+</section>
+<section>
+<h4> Making more than one PR: </h4>
+  <ol> 
+    <li> Create a new branch for each PR you want to create </li>
+    <li> Github Desktop makes it easy to create branches </li>
+  </ol>
+</section>
+</body>
+</html>
