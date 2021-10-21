@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang=en>
+<head>
+<title> Software Development Class Notes </title>
+</head>
+<body>
+<h2> Date: 2021-09-27 </h2>
+<section>
+<h4> Agenda: </h4>
+  <ol> 
+    <li> Welcome back from reflection week</li>
+    <li> Plan for the 2nd half of semester</li>
+  </ol>
+</section>
+<section>
+<h4> Tentative Semester Agenda: </h4>
+  <ol> 
+    <li> This Week: 
+      <ul>
+        <li> Make website presentable
+          <ul> 
+            <li> What we did </li>
+            <li> Our advice to students </li>
+          </ul>                  
+        </li>
+      </ul>   
+    </li>
+    <li> Weeks After:
+      <ul>
+        <li> In pairs, take turns leading the project</li>
+        <li> Brainstorm what to work on in each week</li>
+    </li>
+  </ol>
+</section>
+<section>
+<h4> Outstanding Tasks: </h4>
+  <ol> 
+    <li> Style home page</li>
+    <li> Pick a uniform style for each blog post/article</li>
+    <li> Fix broken page</li>
+    <li> Include class notes for each lesson</li>
+    <li> Include a blurb describing each assignment</li>
+    <li> Post syllabus or list software dev topics from it</li>
+    <li> Post all the assignment submissions (including reflection logs) </li>
+    <li> Connect the domain name to Github</li>
+    <li> Merge all outstanding pull requests</li>
+  </ol>
+</section>
+<section>
+<h4> Leadership Pairings: </h4>
+  <ol> 
+    <li> Edmonds, Tran </li>
+    <li> Gant, Jones </li>
+    <li> Beehler, Thomas </li>
+    <li> Kime </li>
+    <li> Shaffer, Chigwira </li>
+    <li> Gonnerman, Hillaker </li>
+    <li> Callaghan, Nguyen </li>
+  </ol>
+</section>
+<section>
+<h4> Assignment: </h4>
+  <ol> 
+    <li> Write up your assignment plan for the week
+      <ul> 
+        <li> Blurb for assignment to give to class </li>
+        <li> Potential distribution of work </li>
+      </ul> 
+    </li>
+    <li> Create a PR with 2 changed files
+      <ul> 
+        <li> 2021-[month]-[day]-week-plan-[partner1's last name]-[partner2's last name].html </li>
+        <li> index.html with a link to your week's plan </li>
+      </ul> 
+    </li>
+  </ol>
+</section>
+</body>
+</html>
